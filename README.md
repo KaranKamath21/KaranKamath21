@@ -12,7 +12,7 @@ I'm Karan Kamath, a B Tech student in Computer Science Engineering at the Indian
 
 ## Get in Touch
 
-- 📫 You can reach out to me at [Gmail](karankamath2003@gmail.com).
+- 📫 You can reach out to me at karankamath2003@gmail.com.
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/karan-kamath-a24b41227/) - let's network and share insights!
 - 🌐 Checkout my LeetCode Profile [Leetcode](https://leetcode.com/KarryJodd/) for knowing more about DSA skills.
 
